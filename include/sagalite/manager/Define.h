@@ -1,0 +1,6 @@
+#ifndef SAGALITE_DEFINE_H
+#define SAGALITE_DEFINE_H
+
+
+
+#endif //SAGALITE_DEFINE_H
